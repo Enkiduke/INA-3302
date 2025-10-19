@@ -1191,6 +1191,9 @@ section.lazy-placeholder:after {
 .cid-rYz9QdNtHX .mbr-text {
   color: #767676;
 }
+.cid-rYz9QdNtHX .mbr-text P {
+  text-align: justify;
+}
 .cid-rYsO0TnhHh {
   padding-top: 30px;
   padding-bottom: 30px;
